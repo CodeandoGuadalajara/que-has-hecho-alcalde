@@ -2,7 +2,7 @@
 # Qué has hecho Alcalde
 ##Colaboración con Jalisco Cómo Vamos en la plataforma http://quehashechoalcalde.org/
 
-Descipción
+###Descipción
 
 El proyecto de "Qué has hecho Alcalde" es una plataforma web con el interés de informar a los ciudadanos sobre las promesas de campaña y que tanto han sido atendidas por los alcaldes.  Nos reunimos con el equipo de Jalisco Cómo Vamos y comentamos las mejoras posibles. En este momento estamos revisando la manera en que colaboraremos con el equipo.
 
@@ -24,30 +24,30 @@ Informar de manera sencilla al ciudadano sobre las promesas de los alcaldes y ta
 Vemos las areas de mejora enfocada a los siguientes Rubros:
 
 
-####Busqueda de informacion
+####Busqueda de información
 
   * Sistema de palabras clave ( ejemplo: aun que los indicadores no tengan la palabra "banqueta" muestre los indicadores relacionados).
   
 
-####Comunidad o interaccion de los usuarios
+####Comunidad o interacción de los usuarios
 * Posibilidad de compartir indicadores por facebook y twitter para comentarlos.
 * Mostrar la converzacion de twitter en el plataforma.
 * Recibir propuestas de los usuarios sobre compromisos que deberian asumir los alcaldes.
 
 
-####Gestion de datos de la plataforma
+####Gestión de datos de la plataforma
 
 * Darle al usuario una opcion para descargar los datos.
 * Tener un sistema para guardar el historico de los datos.
 
 
-####Presentacion de la informacion
+####Presentación de la informacion
 
 * Un manual de usuario ( no muy popular la idea)
 * Infografico con toda la informacion en una sola "imagen" (informacion dinamica)
 * Hacer pruebas de usuario.
 
-####Generacion de informacion
+####Generación de información
 
 * Adquirir indicadores sugeridos por parte de expertos.
 * Wiki de indicadores.
@@ -77,7 +77,7 @@ Vemos las areas de mejora enfocada a los siguientes Rubros:
 ###Roadmap / Actividades de desarrollo de proyecto
   
   - [ ] Hans esta subiendo issues.
-  - [ ] Jalisco como vamos gestionara como participar en el proyecto de github
+  - [ ] Jalisco Cómo Vamos gestionara como participar en el proyecto de github
   
 
   
@@ -87,7 +87,6 @@ _¿Qué nos hace falta? (contactos, licencias, aprender una nueva tecnología, d
   *  Que el desarrollador de la plataforma nos proveea de la licencia del proyecto 
   *  Que definamos la dinamica de trabajo
   *  Informacion de otras alcaldias
-  * 
   
 
 ###Información de Contacto

@@ -1,10 +1,10 @@
 
-# "Que has hecho alcalde"
-##Colaboracion con Jalisco como vamos en la plataforma 
+# Qué has hecho Alcalde
+##Colaboración con Jalisco Cómo Vamos en la plataforma http://quehashechoalcalde.org/
 
 Descipción
 
-El proyecto de "Que has hecho alcalde" es una plataforma web con el interes de informar a los ciudadanos sobre las promesas de campania y que tanto han sido atendidas por los alcaldes.  Nos reunimos con el equipo de Jalisco como vamos y comentamos las mejoras posibles. En este momento estamos revisando la manera en que colaboraremos con el equipo.
+El proyecto de "Qué has hecho Alcalde" es una plataforma web con el interés de informar a los ciudadanos sobre las promesas de campaña y que tanto han sido atendidas por los alcaldes.  Nos reunimos con el equipo de Jalisco Cómo Vamos y comentamos las mejoras posibles. En este momento estamos revisando la manera en que colaboraremos con el equipo.
 
 
 Documento de definición y estatus de proyecto
@@ -12,7 +12,7 @@ Documento de definición y estatus de proyecto
 
 
 ###Organizaciones aliadas
-  Jalisco como vamos.
+  Jalisco Cómo Vamos
   
 ###Problemática que busca resolver
 
@@ -57,7 +57,7 @@ Vemos las areas de mejora enfocada a los siguientes Rubros:
 
 
 
-###¿Donde están los Datos?
+###¿Dónde están los Datos?
 * http://quehashechoalcalde.org/
 * http://www.jaliscocomovamos.org/
 * https://github.com/elzr/elzr.github.io
@@ -65,9 +65,9 @@ Vemos las areas de mejora enfocada a los siguientes Rubros:
 
 ###Perfiles de los integrantes del equipo actualmente
 
-* [Ana Vicencio] - Comunicacion, Contacto de Jalisco como vamos. 
-* [Vicky Foss] - Matemática, Codeando Guadalajara, Lider del proyecto de Jalisco como vamos
-* [Felipe Rodriguez] - Jalisco Como Vamos
+* [Ana Vicencio] - Comunicacion, Contacto de Jalisco Cómo Vamos 
+* [Vicki Foss] - Matemática, Codeando Guadalajara, Jalisco Cómo Vamos
+* [Felipe Rodríguez] - Jalisco Cómo Vamos
 * [Isabel Anguiano] - Sistemas, Codeando Guadalajara
 * [Hans] - La vida, Codeando Gudalajara
 * [Gustavo Acosta] - Repositorio de indicadores, Codeando Guadalajara
